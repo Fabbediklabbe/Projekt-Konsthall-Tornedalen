@@ -59,4 +59,4 @@ hs_err_pid*
 replay_pid*
 
 ### SQL Connection ###
-application.properties
+src/main/resources/application.properties
