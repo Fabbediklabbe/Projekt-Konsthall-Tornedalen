@@ -1,6 +1,24 @@
 body
 {
     background-color: rgb(255, 255, 255);
+    margin: 2em;
+}
+
+h1
+{
+    font-size: 3em;
+    text-align: center;
+}
+
+ul
+{
+    list-style-type: none;
+    padding-left: 1em;
+}
+
+ul li
+{
+    margin-top: 1em;
 }
 
 .homeHeader
@@ -8,8 +26,8 @@ body
     text-align: center;
     color: rgb(0, 0, 0);
 }
-.informationBox
+.footer
 {
-    position:absolute;
+    position: absolute;
     bottom: 0px;
 }
